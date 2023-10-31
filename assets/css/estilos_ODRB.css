@@ -7,8 +7,8 @@ body {
     font-family: 'Montserrat';
     color: #606060;
     overflow-x: hidden;
-   
     text-decoration: none;
+
 
 }
 
@@ -45,24 +45,24 @@ img {
 .fondo {
     margin: 0;
     background-position: center center;
-    background-repeat:no-repeat ;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     max-width: 100%;
-   
-    background-image: url(../img/fondo.jpg);
+
+    background-image: url(../img/fondo_ODRB.jpg);
 }
-    
 
 /*=================	HEADER==================*/
 header {
-    background: #183a6733;
-    padding: 1.3em;
+    background: #2098d11f;
+    padding: 1.5em;
+    margin: 5px 0px;
     
 }
 
 .header-logos img{
-    width: 22rem;
+    width: 20rem;
 }
 
 .bienvenido {
@@ -119,7 +119,7 @@ header {
 .titulo-convertir{
     justify-content: center;
     font-size: 2.3rem;
-    color: #183a67;
+    color: #ffffff;
     font-weight: 300;
     margin: 0;
     padding-left: 10px;
@@ -127,8 +127,8 @@ header {
 
 .btn-secondary {
     color: #fff;
-    background-color: #E84455;
-    border-color: #E84455;
+    background-color: #0AA5DF;
+    border-color: #0AA5DF;
     border-radius: 10px;
     height: 4rem;
     cursor: pointer;
@@ -256,7 +256,7 @@ a.scroll-top i {
 }
 
 .img-fluid{
-    width: 15.7rem;
+    width: 12rem;
 }
 
 .logo-1cero1-footer{
@@ -270,8 +270,8 @@ a.scroll-top i {
 
 .btn-primary {
     color: #fff;
-    background-color: #183a67;
-    border-color: #183a67;
+    background-color: #13A538;
+    border-color: #13A538;
 }
 
 /*=================RESPONSIVE==================*/
@@ -289,7 +289,7 @@ a.scroll-top i {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-        background-image: url(../img/fondo_movil.jpg);
+        background-image: url(../img/fondo_ODRB_movil.jpg);
     }
 
     .txt-bienvenido{
